@@ -1,4 +1,4 @@
-# mit-work-outlook-task-creator
+# outlook-task-creator
 
 This repository contains a VBA script for Microsoft Outlook to automatically create a task from a selected email and assign a specific category.
 
