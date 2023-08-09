@@ -2,6 +2,15 @@
 
 This repository contains a VBA script for Microsoft Outlook to automatically create a task from a selected email and assign a specific category.
 
+## Environment Details
+
+This script was developed and tested under the following environment:
+
+- **Operating System**: Windows 10 Enterprise
+- **Application**: Microsoft Office LTSC Professional Plus 2021
+- **Specific Application Version**: Outlook Desktop Application
+
+
 ## How to Use
 
 1. Open Microsoft Outlook.
