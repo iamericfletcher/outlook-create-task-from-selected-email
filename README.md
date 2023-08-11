@@ -26,3 +26,12 @@ This script was developed and tested under the following environment:
 
 Now, when you select an email and run the script (either by clicking the macro from the toolbar/ribbon), it will create a task with the specified properties. You can then add notes or make other changes to the task as needed.
 
+### 1. OutlookTaskFromEmail.bas -> Target is Main Tasks Folder
+
+This script creates a task directly under the primary `Tasks` folder.
+
+### 2. OutlookTaskFromEmailNestedTaskFolder.bas -> Target is a nested task folder within Outlook's primary Tasks folder. 
+
+This is particularly useful if you have organized your tasks into subfolders for specific categories or projects.
+
+Note: For the nested folders approach, ensure you've already created the target subfolder in Outlook's primary Tasks folder. For example, if your main Tasks folder contains a subfolder named "Project X", replace TARGET_FOLDER_NAME in the script with "Project X".
